@@ -1,1 +1,1 @@
-![Driver Sequence](https://github.com/enjoyedeggs/Resume/blob/master/Capture.PNG)
+![Driver Sequence](Capture.PNG)
