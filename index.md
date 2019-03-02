@@ -1,3 +1,2 @@
-# Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+![Driver Sequence](https://github.com/enjoyedeggs/Resume/blob/master/Capture.PNG)
