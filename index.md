@@ -1,1 +1,1 @@
-<img src="https://github.com/enjoyedeggs/Resume/blob/master/Capture.PNG" width="4000">
+<img src="https://github.com/enjoyedeggs/Resume/blob/master/Capture.PNG" width="500">
