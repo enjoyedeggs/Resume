@@ -1,1 +1,1 @@
-![Resume](Capture.PNG)
+![Resume](Resume/Capture.PNG)
