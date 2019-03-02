@@ -1,2 +1,2 @@
 
-<img src="Capture.PNG" width="500" height="500">
+<img src="Capture.PNG" width="1000" height="1000">
